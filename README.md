@@ -92,6 +92,7 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 
 
 **4. COMPATIBILIDADE** \
+
 **Segue abaixo os requisitos:**
 
 
