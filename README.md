@@ -68,7 +68,9 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 **Segue abaixo as datas importante do desenvolvimento:**
 
 
-| Data          | Evento                  
+| Data           | Evento                  
+
+| -------------- | -------------------------------------------------------------
 
 | **07/10/2016** | Levantamento do escopo do projeto 
 
