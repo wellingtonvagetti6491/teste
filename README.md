@@ -70,8 +70,6 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 
 | Data          | Evento                  |
 
-|---------------|-------------------------------------------------------------|
-
 | **07/10/2016** | Levantamento do escopo do projeto |
 
 | **08/10/2016** | Inicio da interface WEB inicial do projeto | 
