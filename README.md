@@ -124,6 +124,7 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 
 
 **5. PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE** \
+
 O Projeto foi feito com base em PHP e JavaScript, pelo conhecimento dos membros do grupo. Parte visual foi usado HTML e CSS3, pela sua fácil adesão e modificação. 
 
 Hospedagem feita no Servidor da LIFE.
