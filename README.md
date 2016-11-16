@@ -79,6 +79,7 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 | **10/10/2016** | Criação e manipulação do armazenamento das informações no BD |
 
 | **18/10/2016** | Criado interface para Login de Usuário | 
+
 | **19/10/2016** | Feito teste do Login de Usuário | 
 
 | **19/10/2016** | Inicio do Algoritmo | 
