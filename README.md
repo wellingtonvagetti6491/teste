@@ -68,25 +68,25 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 **Segue abaixo as datas importante do desenvolvimento:**
 
 
-| Data          | Evento                  |
+| Data          | Evento                  
 
-| **07/10/2016** | Levantamento do escopo do projeto |
+| **07/10/2016** | Levantamento do escopo do projeto 
 
-| **08/10/2016** | Inicio da interface WEB inicial do projeto | 
+| **08/10/2016** | Inicio da interface WEB inicial do projeto  
 
-| **10/10/2016** | Criação e manipulação do armazenamento das informações no BD |
+| **10/10/2016** | Criação e manipulação do armazenamento das informações no BD 
 
-| **18/10/2016** | Criado interface para Login de Usuário | 
+| **18/10/2016** | Criado interface para Login de Usuário  
 
-| **19/10/2016** | Feito teste do Login de Usuário | 
+| **19/10/2016** | Feito teste do Login de Usuário  
 
-| **19/10/2016** | Inicio do Algoritmo | 
+| **19/10/2016** | Inicio do Algoritmo  
 
-| **20/10/2016** | Levantamento de indicadores | 
+| **20/10/2016** | Levantamento de indicadores 
 
-| **27/10/2016** | Reunião, agregado mais um membro na equipe | 
+| **27/10/2016** | Reunião, agregado mais um membro na equipe  
 
-| **31/10/2016** | Mudanças no Layout do projeto | 
+| **31/10/2016** | Mudanças no Layout do projeto  
 
 
 
