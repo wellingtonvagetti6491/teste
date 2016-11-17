@@ -38,7 +38,7 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 * Não envia e-mail de notificação;
 * Não envia SMS de notificação;
 
-**3.	DATAS IMPORTANTES** \
+**3.	DATAS IMPORTANTES** 
 
 **Segue abaixo as datas importante do desenvolvimento:**
 
@@ -54,12 +54,9 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 |**27/10/2016**|Reunião, agregado mais um membro na equipe|
 |**31/10/2016**|Mudanças no Layout do projeto|
 
-
-
-**4. COMPATIBILIDADE** \
+**4. COMPATIBILIDADE** 
 
 **Segue abaixo os requisitos:**
-
 
 |Requisitos|Ferramenta|
 |-----------|----------------------------------------|
@@ -67,18 +64,18 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 |Sistema operacional|Linux e Windows| 
 |Dispositivos Móveis|IOS e Android| 
 
-|**Tecnologias**|   				|
-|---------------------- |-----------------------------|
+|**Tecnologias**|   				                           |
+|------------------------|-----------------------------|
 |Linguagem de programação|PHP e JavaScript|
 |Tecnologia WEB	         |HTML 5 e CSS|
 |IDE                     |PHPStorm e Sublime Text|
 |Servidor Web            | LIFE|
-|Banco de Dados         | Mysql|
-|Outras tecnologias     | Travis-CI, Heroku, New Relic, PostgreSql e JQuery|
+|Banco de Dados          | Mysql|
+|Outras tecnologias      | Travis-CI, Heroku, New Relic, PostgreSql e JQuery|
 
 
 
-**5. PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE** \
+**5. PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE**
 
 O Projeto foi feito com base em PHP e JavaScript, pelo conhecimento dos membros do grupo. Parte visual foi usado HTML e CSS3, pela sua fácil adesão e modificação. 
 Hospedagem feita no Servidor da LIFE.
