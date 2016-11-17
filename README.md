@@ -12,10 +12,10 @@
 
 ### INTRODUÇÃO
 
-Este documento provê uma visão geral da versão do aplicativo Filterlog que está sendo liberado. Aqui descreveremos as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
+  Este documento provê uma visão geral da versão do aplicativo Filterlog que está sendo liberado. Aqui descreveremos as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
 Para empresas de telecomunicações cujo é identificar problemas de autenticação SIP, comunicação do ATA (adaptador telefônico analógico) entre o nosso servidor de Telefonia. 
 
-O FilterLog é um Syslog que identifica problemas de tempo de autenticação SIP, o qual cada equipamento deve enviar uma requisição de autorização de registro na plataforma, neste caso, existem tempos padrões de comunicação entre 6 minutos ou 2 minutos, neste caso, se os padrões de tempo de envio de requisição e resposta forem menores ou maiores que o tempo padrão, devemos notificar o cliente através de um evento informando o horário que houve o problema, Diferentemente da ferramenta 
+  O FilterLog é um Syslog que identifica problemas de tempo de autenticação SIP, o qual cada equipamento deve enviar uma requisição de autorização de registro na plataforma, neste caso, existem tempos padrões de comunicação entre 6 minutos ou 2 minutos, neste caso, se os padrões de tempo de envio de requisição e resposta forem menores ou maiores que o tempo padrão, devemos notificar o cliente através de um evento informando o horário que houve o problema, Diferentemente da ferramenta 
 atualmente usada pela empresa, o qual foi implantada para monitoramento em tempo real e filtrar informações armazenadas em banco de dados, a nossa aplicação irá fornecer informações de problemas de quedas ou falhas na rede, caso houver problemas em um
 determinado cliente, o nosso produto em tempo real irá mostrar informações para tomada de decisão do setor nível 2 de suporte.
 
