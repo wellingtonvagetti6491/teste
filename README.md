@@ -98,19 +98,13 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 
 
 
-| Requisitos | Ferramenta  |
-
+|Requisitos|Ferramenta|
 |-----------|----------------------------------------|
+|Navegadores|Mozilla Firefox, Chrome, e Microsoft Edge|
+|Sistema operacional|Linux e Windows| 
+|Dispositivos Móveis|IOS e Android| 
 
-| Navegadores | Mozilla Firefox, Chrome, e Microsoft Edge|
-
-| Sistema operacional | Linux e Windows | 
-| Dispositivos Móveis | IOS e Android | 
-
-
-| 
-
-**Tecnologias** 	 |   				|
+| **Tecnologias** 	 |   				|
 |---------------------- |-----------------------------|
 |Linguagem de programação| PHP e JavaScript|
 
