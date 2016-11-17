@@ -68,27 +68,17 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 **Segue abaixo as datas importante do desenvolvimento:**
 
 
-| Data           | Evento                  
-
-| -------------- | -------------------------------------------------------------
-
-| **07/10/2016** | Levantamento do escopo do projeto 
-
-| **08/10/2016** | Inicio da interface WEB inicial do projeto  
-
-| **10/10/2016** | Criação e manipulação do armazenamento das informações no BD 
-
-| **18/10/2016** | Criado interface para Login de Usuário  
-
-| **19/10/2016** | Feito teste do Login de Usuário  
-
-| **19/10/2016** | Inicio do Algoritmo  
-
-| **20/10/2016** | Levantamento de indicadores 
-
-| **27/10/2016** | Reunião, agregado mais um membro na equipe  
-
-| **31/10/2016** | Mudanças no Layout do projeto  
+|Data| Evento|                  
+|--------------|------------------------------------------------------------|
+|**07/10/2016**|Levantamento do escopo do projeto|
+|**08/10/2016**|Inicio da interface WEB inicial do projeto|
+|**10/10/2016**|Criação e manipulação do armazenamento das informações no BD|
+|**18/10/2016**|Criado interface para Login de Usuário|
+|**19/10/2016**|Feito teste do Login de Usuário|
+|**19/10/2016**|Inicio do Algoritmo|
+|**20/10/2016**|Levantamento de indicadores|
+|**27/10/2016**|Reunião, agregado mais um membro na equipe|
+|**31/10/2016**|Mudanças no Layout do projeto|
 
 
 
@@ -97,24 +87,20 @@ determinado cliente, o nosso produto em tempo real irá mostrar informações pa
 **Segue abaixo os requisitos:**
 
 
-
 |Requisitos|Ferramenta|
 |-----------|----------------------------------------|
 |Navegadores|Mozilla Firefox, Chrome, e Microsoft Edge|
 |Sistema operacional|Linux e Windows| 
 |Dispositivos Móveis|IOS e Android| 
 
-| **Tecnologias** 	 |   				|
+|**Tecnologias**|   				|
 |---------------------- |-----------------------------|
-|Linguagem de programação| PHP e JavaScript|
-
-|Tecnologia WEB	         | HTML 5 e CSS                 |
-|IDE                     | PHPStorm e Sublime Text      |
-
-|Servidor Web            | LIFE                         |
-
-| Banco de Dados         | Mysql                        |
-| Outras tecnologias     | Travis-CI, Heroku, New Relic, PostgreSql e JQuery |
+|Linguagem de programação|PHP e JavaScript|
+|Tecnologia WEB	         |HTML 5 e CSS|
+|IDE                     |PHPStorm e Sublime Text|
+|Servidor Web            | LIFE|
+|Banco de Dados         | Mysql|
+|Outras tecnologias     | Travis-CI, Heroku, New Relic, PostgreSql e JQuery|
 
 
 
